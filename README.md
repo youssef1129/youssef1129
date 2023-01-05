@@ -9,7 +9,7 @@
 
   <hr/>
 
-  ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=Nest.js)
+  ![Nestjs](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=Nestjs)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
 

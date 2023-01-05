@@ -4,7 +4,7 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Reactnative](https://img.shields.io/badge/-Reactnative-333333?style=flat&logo=Reactnative)
+  ![Reactnative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=Reactnative)
   ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=Tailwindcss)
   ![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=Storybook)
 

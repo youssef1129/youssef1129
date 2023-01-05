@@ -1,4 +1,4 @@
-   <hr style='height:2px;background-color:blue' />
+  <hr style='height:2px;background-color:blue' />
    
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
@@ -7,6 +7,7 @@
   ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=Tailwindcss)
   ![Storybook](https://img.shields.io/badge/-storybook-333333?style=flat&logo=Storybook)
 
+  <hr style='height:2px;background-color:blue' />
 
   ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=Nest.js)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)

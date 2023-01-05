@@ -1,4 +1,4 @@
-  <hr style='height:2px;background-color:blue' />
+  <hr style='background-color: #4189e6;' />
    
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
